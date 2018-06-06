@@ -1,1 +1,1 @@
-https://lawrenette.github.io/clase05junio/.
+https://lawrenette.github.io/clase05junio
