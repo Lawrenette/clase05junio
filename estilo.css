@@ -1,0 +1,43 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.fondito {
+	color:white;
+	background-image: url(images/bg2.jpg);
+	text-align: center;
+	background-size: 100% 100%;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.borde {
+	border: 8px solid #dcdcdc;
+	border-radius: 3%;
+}
+
+
+.Descripcion {
+	text-align: center;
+	padding: 25px 1px 25px 1px;
+}
+
+.margin {
+	margin-top: 30px;
+}
+
+.center_logo{
+	padding-bottom: 13px;
+	text-align: center;
+	padding-top: 10px;
+	border: 1px solid #dddddd;
+}
+
+.center {
+	text-align: center;
+	padding-top: 10px;
+	background-color: #f5f5f5;
+	border: 1px solid #dddddd;
+}
